@@ -10,3 +10,5 @@ Customizable visualizer for [Advent of Code](https://adventofcode.com/) 2018's D
       <img src="./demo.gif" alt="demo"/>
     </a>
 </p>
+
+Currently hosted at: https://mk-hill.github.io/minecart-madness-visualizer/
